@@ -1,0 +1,11 @@
+C:\Users\PC GAMER\source\repos\CapaNegocio1\obj\Debug\CapaNegocio1.csproj.CoreCompileInputs.cache
+C:\Users\PC GAMER\source\repos\CapaNegocio1\bin\Debug\CapaNegocio1.dll
+C:\Users\PC GAMER\source\repos\CapaNegocio1\bin\Debug\CapaNegocio1.pdb
+C:\Users\PC GAMER\source\repos\CapaNegocio1\bin\Debug\CapaDatos1.dll
+C:\Users\PC GAMER\source\repos\CapaNegocio1\bin\Debug\CapaEntidad1.dll
+C:\Users\PC GAMER\source\repos\CapaNegocio1\bin\Debug\CapaDatos1.pdb
+C:\Users\PC GAMER\source\repos\CapaNegocio1\bin\Debug\CapaEntidad1.pdb
+C:\Users\PC GAMER\source\repos\CapaNegocio1\obj\Debug\CapaNegocio1.csproj.AssemblyReference.cache
+C:\Users\PC GAMER\source\repos\CapaNegocio1\obj\Debug\CapaNegocio1.csproj.CopyComplete
+C:\Users\PC GAMER\source\repos\CapaNegocio1\obj\Debug\CapaNegocio1.dll
+C:\Users\PC GAMER\source\repos\CapaNegocio1\obj\Debug\CapaNegocio1.pdb
