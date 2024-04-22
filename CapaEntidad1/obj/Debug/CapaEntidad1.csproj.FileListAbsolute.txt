@@ -1,0 +1,6 @@
+C:\Users\PC GAMER\source\repos\CapaEntidad1\obj\Debug\CapaEntidad1.csproj.AssemblyReference.cache
+C:\Users\PC GAMER\source\repos\CapaEntidad1\obj\Debug\CapaEntidad1.csproj.CoreCompileInputs.cache
+C:\Users\PC GAMER\source\repos\CapaEntidad1\bin\Debug\CapaEntidad1.dll
+C:\Users\PC GAMER\source\repos\CapaEntidad1\bin\Debug\CapaEntidad1.pdb
+C:\Users\PC GAMER\source\repos\CapaEntidad1\obj\Debug\CapaEntidad1.dll
+C:\Users\PC GAMER\source\repos\CapaEntidad1\obj\Debug\CapaEntidad1.pdb
